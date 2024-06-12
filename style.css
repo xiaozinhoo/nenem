@@ -1,0 +1,77 @@
+/* Estilos para o corpo da página */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fa5870; /* Vermelho mais claro para o background */
+    margin: 0;
+    padding: 0 10px;
+}
+
+/* Estilos para o contêiner principal */
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff; /* Fundo branco para o contêiner principal */
+    border-radius: 15px; /* Bordas arredondadas */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra suave */
+}
+
+/* Estilos para o título */
+h1 {
+    color: #e91e63; /* Vermelho escuro para o título */
+    text-align: center;
+}
+
+/* Estilos para as imagens */
+img {
+    display: block;
+    max-width: 100%;
+    margin: 20px auto;
+    border-radius: 8px;
+}
+
+/* Estilos para os parágrafos */
+p {
+    font-size: 18px;
+    line-height: 1.6;
+    text-align: justify;
+}
+
+/* Estilos para a imagem */
+.foto-nenem {
+    display: flex;
+    max-width: 75%; /* Definindo a largura máxima como 80% */
+    height: auto;
+    margin: 0px auto;
+    border-radius: 15px;
+}
+
+.coracao__heart-icon {
+    margin-left: 35px;
+    color: red;
+    font-size: 30px;
+}
+
+.coracao__heart-icon2 {
+    color: red;
+    font-size: 30px;
+    margin-left: 80%;
+}
+
+.testa {
+    text-align: center;
+    color: #ffffff;
+}
+
+.testa-img {
+    max-width: 80%;
+}
+
+.nenem {
+    color: red;
+    font-weight: bold;
+}
+
+.bold {
+    font-weight: bolder;
+}
